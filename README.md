@@ -23,8 +23,14 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,spark,hadoop,java,bash,aws,gcp,docker,githubactions,pytest,git,jira,opencv,scikitlearn,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,spark,hadoop,java,bash,aws,gcp,docker,githubactions,pytest,git,jira,opencv,scikitlearn,pytorch,tensorflow" />
+
+<!-- Fallback Shields badges for Spark & Hadoop -->
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop" />
 </div>
+
 
 ---
 
