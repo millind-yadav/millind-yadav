@@ -20,13 +20,13 @@
 # 📊 GitHub Stats:
 
 <!-- overall stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=milind3020&show_icons=true&theme=neon&hide_border=false" />
+<img align="center" src="https://github-readme-stats-i9qbsil6y-milind-yadavs-projects.vercel.app/api&show_icons=true&theme=neon&hide_border=false" />
 
 <!-- streak -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milind3020&theme=neon&hide_border=false" />
 
 <!-- top languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milind3020&theme=neon&hide_border=false&layout=compact" />
+<img align="center" src="https://github-readme-stats-i9qbsil6y-milind-yadavs-projects.vercel.app/api/top-langs&theme=neon&hide_border=false&layout=compact" />
 
 ---
 
