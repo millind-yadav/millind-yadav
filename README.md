@@ -22,13 +22,28 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,spark,hadoop,java,bash,aws,gcp,docker,githubactions,pytest,git,jira,opencv,scikitlearn,pytorch,tensorflow" />
+## 💻 Tech Stack
 
-<!-- Fallback Shields badges for Spark & Hadoop -->
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop" />
+<div align="center">
+  <ul style="display: flex; gap: 1rem; padding: 0; list-style: none; align-items: center; flex-wrap: wrap;">
+    <li><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/apache-spark/E25A1C" alt="Apache Spark" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/apache-hadoop/66CCFF" alt="Apache Hadoop" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/java/ED8B00" alt="Java" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/gnu-bash/4EAA25" alt="Bash" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/googlecloud/F9AB00" alt="GCP" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/pytest/0A4D8C" alt="PyTest" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" height="40" /></li>
+    <li><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" height="40" /></li>
+  </ul>
 </div>
 
 
