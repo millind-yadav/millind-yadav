@@ -8,12 +8,12 @@
 </div>
 
 ## 💫 About Me
-- 🎓 **Data Engineer** with **2 years** of experience building scalable data pipelines  
-- 📊 Proficient in **Python**, **SQL**, **Spark**, and **ETL automation**  
-- ☁️ Leveraging **AWS** & **GCP** to drive business outcomes  
-- 🎓 **MSc Data Science** candidate at **University of Bristol** (2024–2025)  
-- 🛠️ Passionate about **CI/CD**, **Docker**, and data-driven problem solving  
-- 🔬 Enthusiastic about **big data**, **cloud computing**, and **analytics**  
+ 🎓 **Data Engineer** with **2 years** of experience building scalable data pipelines  
+ 📊 Proficient in **Python**, **SQL**, **Spark**, and **ETL automation**  
+ ☁️ Leveraging **AWS** & **GCP** to drive business outcomes  
+ 🎓 **MSc Data Science** candidate at **University of Bristol** (2024–2025)  
+ 🛠️ Passionate about **CI/CD**, **Docker**, and data-driven problem solving  
+ 🔬 Enthusiastic about **big data**, **cloud computing**, and **analytics**  
 
 ---
 
