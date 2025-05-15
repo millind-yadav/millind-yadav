@@ -22,28 +22,25 @@
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apache-spark/E25A1C" alt="Apache Spark" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apache-hadoop/66CCFF" alt="Apache Hadoop" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/java/ED8B00" alt="Java" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnu-bash/4EAA25" alt="Bash" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlecloud/F9AB00" alt="GCP" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pytest/0A4D8C" alt="PyTest" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jira/0052CC" alt="Jira" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" height="40" />
+  <img alt="Python"         src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+  <img alt="MySQL"          src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+  <img alt="Apache Spark"   src="https://img.shields.io/badge/apache--spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />&nbsp;
+  <img alt="Apache Hadoop"  src="https://img.shields.io/badge/apache--hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" />&nbsp;
+  <img alt="Java"           src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+  <img alt="Bash"           src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp;
+  <img alt="AWS"            src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;
+  <img alt="GCP"            src="https://img.shields.io/badge/google--cloud-F9AB00?style=for-the-badge&logo=google-cloud&logoColor=white" />&nbsp;
+  <img alt="Docker"         src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/github--actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />&nbsp;
+  <img alt="PyTest"         src="https://img.shields.io/badge/pytest-0A4D8C?style=for-the-badge&logo=pytest&logoColor=white" />&nbsp;
+  <img alt="Git"            src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img alt="Jira"           src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />&nbsp;
+  <img alt="OpenCV"         src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;
+  <img alt="scikit-learn"   src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;
+  <img alt="PyTorch"        src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;
+  <img alt="TensorFlow"     src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
-
 
 
 ---
