@@ -19,14 +19,14 @@
 
 # 📊 GitHub Stats:
 
-<!-- overall stats (using your own deployed instance) -->
-<img align="center" src="https://github-readme-stats-i9qbsil6y-milind-yadavs-projects.vercel.app/api?username=milind3020&show_icons=true&theme=neon&hide_border=false&include_all_commits=false&count_private=false" />
+<!-- overall stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=milind3020&show_icons=true&theme=neon&hide_border=false" />
 
 <!-- streak -->
-<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=milind3020&theme=neon&hide_border=false" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milind3020&theme=neon&hide_border=false" />
 
 <!-- top languages -->
-<img align="center" src="https://github-readme-stats-i9qbsil6y-milind-yadavs-projects.vercel.app/api/top-langs/?username=milind3020&theme=neon&hide_border=false&layout=compact&count_private=false&include_all_commits=false" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milind3020&theme=neon&hide_border=false&layout=compact" />
 
 ---
 
