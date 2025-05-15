@@ -60,8 +60,18 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=milind3020&theme=neon&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=milind3020
+           &theme=neon
+           &no-frame=true
+           &no-bg=true
+           &margin-w=15
+           &column=4
+           &show=stars,followers,repositories,commits"
+    alt="GitHub Trophies" 
+  />
 </p>
 
 ---
