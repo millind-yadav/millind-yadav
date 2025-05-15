@@ -21,11 +21,11 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <!-- Self-hosted overall stats -->
-  <img src="https://github-readme-stats-3htfyc9o5-milind-yadavs-projects.vercel.app/api?username=milind3020&show_icons=true&theme=neon&hide_border=false&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=milind3020&show_icons=true&theme=neon&hide_border=false&count_private=true" alt="GitHub Stats" /><br/>
   <!-- Streak stats (official) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=milind3020&theme=neon&hide_border=false" alt="GitHub Streak" /><br/>
   <!-- Self-hosted top languages -->
-  <img src="https://github-readme-stats-3htfyc9o5-milind-yadavs-projects.vercel.app/api/top-langs?username=milind3020&layout=compact&theme=neon&hide_border=false&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milind3020&layout=compact&theme=neon&hide_border=false&count_private=true" alt="Top Languages" />
 </p>
 
 ---
