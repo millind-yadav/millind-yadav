@@ -45,15 +45,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <!-- Official overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=milind3020&show_icons=true&theme=neon&count_private=true" alt="GitHub Stats" /><br/>
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milind3020&theme=neon" alt="GitHub Streak" /><br/>
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milind3020&layout=compact&theme=neon&count_private=true" alt="Top Languages" />
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
+<br>
+<div align=center>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username=milind3020&layout=compact&theme=radical&exclude_repo=github-readme-stats&border_radius=15&langs_count=6&size_weight=0.5&count_weight=0.5" />
+    <img src="https://github-readme-stats.vercel.app/api?username=username=milind3020&show_icons=true&theme=radical&border_radius=15&rank_icon=github&hide=stars" />
+    <br/>
+    
+</div>
 
 ---
 
