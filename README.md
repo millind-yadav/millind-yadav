@@ -21,11 +21,11 @@
 
 <p align="center">
   <!-- overall public stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=milind3020&show_icons=true&theme=neon" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats-3htfyc9o5-milind-yadavs-projects.vercel.app/api?username=milind3020&count_private=true&show_icons=true&theme=neon" alt="GitHub Stats" /><br/>
   <!-- streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=milind3020&theme=neon" alt="GitHub Streak" /><br/>
   <!-- top langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milind3020&layout=compact&theme=neon" alt="Top Languages" />
+  <img src="https://github-readme-stats-3htfyc9o5-milind-yadavs-projects.vercel.app/api/top-langs?username=milind3020&count_private=true&layout=compact&theme=neon" alt="Top Languages" />
 </p>
 
 ---
