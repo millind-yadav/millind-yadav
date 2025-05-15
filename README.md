@@ -51,8 +51,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <br>
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milind3020&layout=compact&theme=radical&exclude_repo=github-readme-stats&border_radius=15&langs_count=6&size_weight=0.5&count_weight=0.5" />
-    <img src="https://github-readme-stats.vercel.app/api?username=milind3020&show_icons=true&theme=radical&border_radius=15&rank_icon=github&hide=stars" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milind3020&count_private=true&layout=compact&theme=radical&exclude_repo=github-readme-stats&border_radius=15&langs_count=6&size_weight=0.5&count_weight=0.5" />
+    <img src="https://github-readme-stats.vercel.app/api?username=milind3020&count_private=true&show_icons=true&theme=radical&border_radius=15&rank_icon=github&hide=stars" />
     <br/>
     
 </div>
