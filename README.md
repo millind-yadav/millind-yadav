@@ -71,8 +71,3 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=milind3020&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
----
-
-<p align="center">
-  [![Profile Visitor Count](https://visitcount.itsvg.in/api?id=milind3020&icon=6&color=9)](https://visitcount.itsvg.in)
-</p>
